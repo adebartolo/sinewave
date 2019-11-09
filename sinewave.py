@@ -8,11 +8,11 @@ wn.bgcolor('lightblue')
 fred = turtle.Turtle()
 fran = turtle.Turtle()
 
-# Move Fran a specified amount to the right
+# Move Fran a specified amount of pixels to the right
 turtle.forward(900)
 
 
-# Code for Sin Wave
+# Code for Sine Wave
 for x in range(720):
     y = math.sin(math.radians(x))
     fred.goto(x,y)
