@@ -1,4 +1,4 @@
-Sin waves represent pure tones.
+Sine waves represent pure tones.
 
 They are important because they can analyze complex sounds (Fourier Analysis).
 
